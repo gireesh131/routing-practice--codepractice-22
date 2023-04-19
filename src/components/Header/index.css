@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.bg-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.wave-icon {
+  width: 30px;
+  height: 30px;
+}
+.wave-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  padding-left: 5px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.background-list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.list-style {
+  font-size: 23px;
+  font-family: 'Roboto';
+  padding: 5px;
+  font-weight: 500;
+}

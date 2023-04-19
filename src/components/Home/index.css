@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.bg-container-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 100px;
+}
+.home-heading {
+  font-size: 32px;
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
